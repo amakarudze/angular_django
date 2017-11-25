@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="783a9494-1f0e-4e5e-8920-670f75fa8cbc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/src/djangular/api.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/src/djangular/serializers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/src/djangular/urls.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/src/static/ang/assets/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/src/static/ang/inline.244419918148e232d841.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/src/static/ang/main.9e63525d3991b6df10c9.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/src/static/ang/vendor.b61d9412f97cf0c888f0.bundle.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/src/db.sqlite3" afterPath="$PROJECT_DIR$/server/src/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/src/app/videos/videos.service.ts" afterPath="$PROJECT_DIR$/client/src/app/videos/videos.service.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/src/config/settings.py" afterPath="$PROJECT_DIR$/server/src/config/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/src/config/urls.py" afterPath="$PROJECT_DIR$/server/src/config/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/src/djangular/admin.py" afterPath="$PROJECT_DIR$/server/src/djangular/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/src/djangular/models.py" afterPath="$PROJECT_DIR$/server/src/djangular/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/src/static/ang/assets/json/videos.json" afterPath="$PROJECT_DIR$/server/src/static/ang/assets/json/videos.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/src/static/ang/index.html" afterPath="$PROJECT_DIR$/server/src/static/ang/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/src/templates/ang_home.html" afterPath="$PROJECT_DIR$/server/src/templates/ang_home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -46,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/server/src/templates/ang_home.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="513">
-              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+              <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -74,23 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/src/djangular/admin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="videos.service.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/src/app/videos/videos.service.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="81">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
               </folding>
@@ -98,11 +70,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="videos.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="videos.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/src/static/ang/assets/json/videos.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="297">
               <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -124,7 +106,7 @@
         <entry file="file://$PROJECT_DIR$/server/src/djangular/api.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="297">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
               </folding>
@@ -136,7 +118,7 @@
         <entry file="file://$PROJECT_DIR$/server/src/djangular/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+              <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -490,14 +472,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/server/src/config/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1593">
-          <caret line="59" column="20" lean-forward="false" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/src/static/ang/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -696,7 +670,7 @@
     <entry file="file://$PROJECT_DIR$/server/src/templates/ang_home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -714,7 +688,7 @@
     <entry file="file://$PROJECT_DIR$/server/src/djangular/api.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
             <element signature="e#0#48#0" expanded="true" />
           </folding>
@@ -724,7 +698,7 @@
     <entry file="file://$PROJECT_DIR$/server/src/djangular/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
@@ -744,7 +718,7 @@
     <entry file="file://$PROJECT_DIR$/client/src/app/videos/videos.service.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
           </folding>
@@ -755,6 +729,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
