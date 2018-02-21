@@ -6,7 +6,7 @@ import { VideoListComponent } from './video-list/video-list.component';
 import { VideoDetailComponent } from './video-detail/video-detail.component';
 import { SearchDetailComponent} from './search-detail/search-detail.component';
 
-const appRoutes = [
+const appRoutes: Routes = [
   {
     path: '',
     component: HomeComponent,
